@@ -1,16 +1,99 @@
-## Hi there 👋
+# Gustavo Bazan🧟
 
-<!--
-**bazeluv/bazeluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dev Full-Stack em desenvolvimento!!**
 
-Here are some ideas to get you started:
+Sempre gostei de aprender mais sobre computadores e, agora, me vejo estudando o que acontece nos bastidores. Meu objetivo não é apenas entender, mas também criar o que quiser. Isso é o que me dá paixão por essa área. Cada conhecimento que adquiro, desde um simples HTML até Java, me faz ter certeza de que escolhi o caminho e área certa e desperta cada vez mais minha curiosidade. Aqui esta o meu [Linkedin](https://www.linkedin.com/in/gustavobazandesouza/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Atualmente estudando
+
+
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+          
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+
+<img
+    align="left"
+    alt="Spring"
+    title="Spring"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+/>
+
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+
+<img
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+          
+          
+          
+          
+          
+          
+          
+          
