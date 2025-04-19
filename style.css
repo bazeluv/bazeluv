@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #7e7e7d;
+    font-family: 'Times New Roman', serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px;
+    background: white;
+    box-shadow: 0 0 20px rgba(0,0,0,0.05);
+}
+
+.sidebar {
+    width: 30%;
+    padding: 20px 40px;
+    border-right: 1px solid #eee;
+}
+
+.main-content {
+    width: 70%;
+    padding: 20px 40px;
+}
+
+.section-title {
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: #333;
+    border-bottom: 1px solid #333;
+    padding-bottom: 8px;
+    margin: 30px 0 20px 0;
+}
+
+.habilidades-list, .idiomas-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.habilidades-list li, .idiomas-list li {
+    margin-bottom: 12px;
+    font-size: 15px;
+    color: #666;
+}
+
+.nome {
+    font-size: 32px;
+    font-weight: normal;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.cargo-title {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 25px;
+    font-weight: normal;
+}
+
+.contato-info {
+    font-size: 15px;
+    color: #666;
+    font-weight: normal;
+    margin-bottom: 30px;
+    line-height: 1.8;
+}
+
+.educacao-item {
+    margin-bottom: 20px;
+    color: #666;
+}
+
+.educacao-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.educacao-date {
+    color: #999;
+    font-style: italic;
+    float: right;
+}
+
+.top-gradient {
+    display: none;
+}
+
+.habilidades-list li:before, .idiomas-list li:before, .education-item:before {
+    content: none;
+}
